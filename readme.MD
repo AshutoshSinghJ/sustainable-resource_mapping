@@ -234,7 +234,7 @@ miniproject/
 
 ## 📧 Contact & Support
 
-**Project Lead:** Divyansu Puri  
+**Project Lead:** Asutosh Singh  
 **Institution:** KIIT University  
 **Repository:** [github.com/assassindiv/sustainable-resource_mapping](https://github.com/assassindiv/sustainable-resource_mapping)  
 **Issues:** Use GitHub Issues for bug reports and feature requests
