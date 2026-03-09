@@ -88,7 +88,7 @@ A comprehensive **6-phase geospatial machine learning pipeline** for optimal ren
 ---
 
 ### Phase 2: Spatial Constraint Modeling ✅
-**Lead:** Ashutosh Singh, Aryan Singh
+**Lead:**  Aryan Singh
 
 **Objective:** Create a binary constraint map identifying all locations legally prohibited or physically unsuitable for energy infrastructure.
 
@@ -412,11 +412,22 @@ joblib>=1.3.0
 
 ---
 
-## 📧 Contact
+## 📧 Contact & Team
 
-**Project Lead:** Ashutosh Singh
-**Institution:** KIIT University, Bhubaneswar
+This project was collaboratively developed at **KIIT University, Bhubaneswar** (2025–2026).
+
+| Member | Role | GitHub |
+|--------|------|--------|
+| Ashutosh Singh | Project Lead & System Architect | [@AshutoshSinghJ](https://github.com/AshutoshSinghJ) |
+| Divyanshu Puri | ML Engineer & GIS Developer | [@assassindiv](https://github.com/assassindiv) |
+| Aryan Singh | GIS Developer | *(add GitHub if available)* |
+| Keshav | GIS Analyst | *(add GitHub if available)* |
+| Astitva Tripathi | GIS / Data Processing | *(add GitHub if available)* |
+| Madhusudhan | Data Processing / GIS Developer | *(add GitHub if available)* |
+
 **Repository:** [github.com/AshutoshSinghJ/sustainable-resource_mapping](https://github.com/AshutoshSinghJ/sustainable-resource_mapping)
+
+**For questions or collaboration:** Open a [GitHub Issue](https://github.com/AshutoshSinghJ/sustainable-resource_mapping/issues) and tag the relevant team member.
 
 ---
 
